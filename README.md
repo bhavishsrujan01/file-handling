@@ -1,4 +1,3 @@
-# file-handling
 # 🗂️ Simple Python File Manager
 
 This is a simple command-line based **File Manager** built using Python. It allows users to **Create**, **Read**, **Update**, and **Delete** files in the current directory.

@@ -19,4 +19,4 @@ This is a simple command-line based **File Manager** built using Python. It allo
 
 1. **Run the script:**
    ```bash
-   python file_manager.py
+   python code.py
